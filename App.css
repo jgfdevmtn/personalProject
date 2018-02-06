@@ -1,0 +1,118 @@
+body {
+	padding: 0;
+	background-color: #380000;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-family: fantasy;
+	text-align: center;
+}
+
+.container {
+       text-align:center;	
+}
+
+
+.message-container {
+	margin-left: 70vh;
+	margin-top: 4vh;
+	width: 50vh;
+	background-color: #D1CCDC;
+	display: flex;
+	align-self: center;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border: solid thick white;
+}
+
+.message-header {
+	width: 100%;
+	background-color: #670101;
+	color: white;
+	text-align: center;
+	font-family: fantasy;
+}	
+
+.message-with {
+	font-size: 50px;
+	padding: 2vh 0 0 0;
+	margin: 0;
+}
+
+.message-area-container {
+	width: 100%;
+	border-bottom: solid #580101 thick;
+	background-color: #670101;
+}
+
+.message-area {
+	height: 50vh;
+	padding: 0;
+	margin: 0 5vh 4vh 5vh;
+	border: solid #3D2C2E thick;
+	background-color: white;
+}
+
+.input-area {
+	width: 99%;
+	border-right: solid #3D2C2E thick;
+}
+
+
+.input-field {
+	width: 100%;
+	background-color: white;
+	height: 5vh;
+	text-align: center;
+	font-family: fantasy;
+	font-size: 15px;
+}
+
+.input-submit-button {
+	padding: 1vh 2vh 1vh 2vh;
+	font-family: fantasy;
+	border: solid black thin;
+}
+
+.hello-text {
+	color:white;
+	font-size: 50px;
+	text-align: center;
+	margin: 4vh 10vh 0vh 10vh;
+}
+
+.hello-text-me {
+	text-align: center;
+	color: white;
+	display: inline-block;
+}
+
+
+.hello-tech {
+	color: white;
+	text-align: center;
+	margin-bottom: 7vh;
+	margin-bottom: 1vh;
+	display: inline-block;
+	margin-left: 10vh;
+}
+
+.white-line {
+	height: 1px;
+	width: 10vh;
+	background-color: white;
+	display: inline;
+}
+
+.message-bubble {
+	width: 100%;
+	text-align: center;
+}	
+
+
+
+
+
+
